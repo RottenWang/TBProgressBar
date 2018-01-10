@@ -76,7 +76,7 @@ public class TBProgressView extends View {
      * @param progress
      */
     @Keep
-    private void setProgress(@IntRange(from = 0, to = 100) int progress) {
+    public void setProgress(@IntRange(from = 0, to = 100) int progress) {
         this.progress = progress;
         invalidate();
     }
@@ -108,6 +108,7 @@ public class TBProgressView extends View {
     public void setBgColors(int color1, int color2) {
         bgColors[0] = color1;
         bgColors[1] = color2;
+        invalidate();
     }
 
     /**
@@ -119,6 +120,7 @@ public class TBProgressView extends View {
     public void setForegroundColors(int color1, int color2) {
         foregroundColors[0] = color1;
         foregroundColors[1] = color2;
+        invalidate();
     }
 
 //    @Override
