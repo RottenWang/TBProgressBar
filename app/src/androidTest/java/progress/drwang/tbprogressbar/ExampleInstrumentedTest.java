@@ -1,4 +1,4 @@
-package progress.drwang.tbprogressbaar;
+package progress.drwang.tbprogressbar;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("progress.drwang.tbprogressbaar", appContext.getPackageName());
+        assertEquals("progress.drwang.tbprogressbar", appContext.getPackageName());
     }
 }

@@ -1,4 +1,4 @@
-package progress.drwang.tbprogressbaar;
+package progress.drwang.tbprogressbar;
 
 import org.junit.Test;
 

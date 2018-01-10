@@ -1,4 +1,4 @@
-package progress.drwang.tbprogressbaar.view;
+package progress.drwang.tbprogressbar.view;
 
 import android.animation.ObjectAnimator;
 import android.content.Context;

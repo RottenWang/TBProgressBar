@@ -1,11 +1,10 @@
-package progress.drwang.tbprogressbaar.activity;
+package progress.drwang.tbprogressbar.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.View;
 
-import progress.drwang.tbprogressbaar.R;
-import progress.drwang.tbprogressbaar.view.TBProgressView;
+import progress.drwang.tbprogressbar.R;
+import progress.drwang.tbprogressbar.view.TBProgressView;
 
 public class MainActivity extends AppCompatActivity {
 
