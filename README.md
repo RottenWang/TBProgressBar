@@ -11,9 +11,9 @@
     startShowAnimate()  stopShowAnimate()
     ```      
 ## 3.设置进度背景颜色
-    ```
+```
     setBgColors(int color1, int color2)
-    ```
+```
 ## 4.设置置进度条前景颜色
     ```
     setForegroundColors(int color1, int color2)
