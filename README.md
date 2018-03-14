@@ -9,13 +9,16 @@
 ## 2.开始 关闭 演示动画
     ```java 
     startShowAnimate()  stopShowAnimate()
+    
     ```      
 ## 3.设置进度背景颜色
     ```java 
     setBgColors(int color1, int color2)
+    
     ```
 ## 4.设置置进度条前景颜色
     ```java 
     setForegroundColors(int color1, int color2)
+    
     ```
 
